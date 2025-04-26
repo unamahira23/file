@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Konfigurasi mining
-POOL="ca.salvium.herominers.com:1230"
+POOL="138.197.153.9:443"
 WALLET="SaLvs8BNDCd93xtBQgeRe9bUUpNAp5SN2JbGtHZEvASL3nzbrFQ72jv45B6WxNydgmEfuMfaxhLUjMap92RjxGKa7p41h81joBy"
 WORKER="4jam"
 CPU_THREADS=3
