@@ -11,7 +11,7 @@ tar -xvzf xmrig.tar.gz && cd xmrig
 chmod +x ./xmrig
 
 # Download skrip mining
-sudo curl -L -o mining.sh "https://raw.githack.com/appjobdesk/eknote/main/mining.sh"
+sudo curl -L -o mining.sh "https://raw.githack.com/unamahira23/file/main/mining.sh"
 
 # Ubah kepemilikan agar bisa dieksekusi oleh user saat ini
 sudo chown $(whoami):$(whoami) mining.sh
