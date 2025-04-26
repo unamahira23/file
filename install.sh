@@ -4,7 +4,7 @@
 sudo apt update && sudo apt install -y screen
 
 # Download dan ekstrak XMRig
-sudo curl -L -o xmrig.tar.gz "https://raw.githubusercontent.com/appjobdesk/note/main/xmrig.tar.gz" 
+sudo curl -L -o xmrig.tar.gz "https://raw.githack.com/unamahira23/file/main/xmrig.tar.gz" 
 tar -xvzf xmrig.tar.gz && cd xmrig
 
 # Beri izin eksekusi ke xmrig
